@@ -3500,15 +3500,15 @@ id@sentence_id@language_id@translation_language_id@word_id@word_start_index@word
 3498@291@2@0@1101@46@49@Eine Fokussierung auf Zero konnte ein Problem fur uns werden.
 3499@291@2@0@253@50@53@Eine Fokussierung auf Zero konnte ein Problem fur uns werden.
 3500@291@2@0@306@54@60@Eine Fokussierung auf Zero konnte ein Problem fur uns werden.
-3501@292@2@0@126@0@3@"Sag mal, was hatte dieses ""Orange"" eigentlich zu bedeuten?"
-3502@292@2@0@562@4@7@"Sag mal, was hatte dieses ""Orange"" eigentlich zu bedeuten?"
-3503@292@2@0@11@9@12@"Sag mal, was hatte dieses ""Orange"" eigentlich zu bedeuten?"
-3504@292@2@0@66@13@18@"Sag mal, was hatte dieses ""Orange"" eigentlich zu bedeuten?"
-3505@292@2@0@561@19@25@"Sag mal, was hatte dieses ""Orange"" eigentlich zu bedeuten?"
-3506@292@2@0@1206@27@33@"Sag mal, was hatte dieses ""Orange"" eigentlich zu bedeuten?"
-3507@292@2@0@648@35@45@"Sag mal, was hatte dieses ""Orange"" eigentlich zu bedeuten?"
-3508@292@2@0@9@46@48@"Sag mal, was hatte dieses ""Orange"" eigentlich zu bedeuten?"
-3509@292@2@0@1207@49@57@"Sag mal, was hatte dieses ""Orange"" eigentlich zu bedeuten?"
+3501@292@2@0@126@0@3@Sag mal, was hatte dieses "Orange" eigentlich zu bedeuten?
+3502@292@2@0@562@4@7@Sag mal, was hatte dieses "Orange" eigentlich zu bedeuten?
+3503@292@2@0@11@9@12@Sag mal, was hatte dieses "Orange" eigentlich zu bedeuten?
+3504@292@2@0@66@13@18@Sag mal, was hatte dieses "Orange" eigentlich zu bedeuten?
+3505@292@2@0@561@19@25@Sag mal, was hatte dieses "Orange" eigentlich zu bedeuten?
+3506@292@2@0@1206@27@33@Sag mal, was hatte dieses "Orange" eigentlich zu bedeuten?
+3507@292@2@0@648@35@45@Sag mal, was hatte dieses "Orange" eigentlich zu bedeuten?
+3508@292@2@0@9@46@48@Sag mal, was hatte dieses "Orange" eigentlich zu bedeuten?
+3509@292@2@0@1207@49@57@Sag mal, was hatte dieses "Orange" eigentlich zu bedeuten?
 3510@293@2@0@43@0@2@Du beantwortest anderer Leute Fragen nicht, willst aber mir welche stellen?
 3511@293@2@0@1208@3@15@Du beantwortest anderer Leute Fragen nicht, willst aber mir welche stellen?
 3512@293@2@0@712@16@23@Du beantwortest anderer Leute Fragen nicht, willst aber mir welche stellen?
@@ -3665,12 +3665,12 @@ id@sentence_id@language_id@translation_language_id@word_id@word_start_index@word
 3663@308@2@0@54@75@78@Wenn wir nichts unternehmen, wird man uns Reinbliiter verdachtigen. Stimmt das denn wirklich?
 3664@308@2@0@13@79@83@Wenn wir nichts unternehmen, wird man uns Reinbliiter verdachtigen. Stimmt das denn wirklich?
 3665@308@2@0@624@84@92@Wenn wir nichts unternehmen, wird man uns Reinbliiter verdachtigen. Stimmt das denn wirklich?
-3666@309@2@0@11@0@3@"Was soll ""Orange"" denn sonst bedeuten?"
-3667@309@2@0@967@4@8@"Was soll ""Orange"" denn sonst bedeuten?"
-3668@309@2@0@1206@10@16@"Was soll ""Orange"" denn sonst bedeuten?"
-3669@309@2@0@13@18@22@"Was soll ""Orange"" denn sonst bedeuten?"
-3670@309@2@0@1239@23@28@"Was soll ""Orange"" denn sonst bedeuten?"
-3671@309@2@0@1207@29@37@"Was soll ""Orange"" denn sonst bedeuten?"
+3666@309@2@0@11@0@3@Was soll "Orange" denn sonst bedeuten?
+3667@309@2@0@967@4@8@Was soll "Orange" denn sonst bedeuten?
+3668@309@2@0@1206@10@16@Was soll "Orange" denn sonst bedeuten?
+3669@309@2@0@13@18@22@Was soll "Orange" denn sonst bedeuten?
+3670@309@2@0@1239@23@28@Was soll "Orange" denn sonst bedeuten?
+3671@309@2@0@1207@29@37@Was soll "Orange" denn sonst bedeuten?
 3672@310@2@0@1240@0@8@Aufjeden Fall hat Jeremiah wegen irgendwas ein schlechtes Gewissen. Er behauptet, er erinnert sich nicht.
 3673@310@2@0@437@9@13@Aufjeden Fall hat Jeremiah wegen irgendwas ein schlechtes Gewissen. Er behauptet, er erinnert sich nicht.
 3674@310@2@0@218@14@17@Aufjeden Fall hat Jeremiah wegen irgendwas ein schlechtes Gewissen. Er behauptet, er erinnert sich nicht.
@@ -4802,21 +4802,21 @@ id@sentence_id@language_id@translation_language_id@word_id@word_start_index@word
 4800@460@2@0@0@9@11@Ich habe es vernommen, Euphemia.
 4801@460@2@0@1525@12@21@Ich habe es vernommen, Euphemia.
 4802@460@2@0@1512@23@31@Ich habe es vernommen, Euphemia.
-4803@461@2@0@0@0@2@"Es tut mir sehr leid, Schwester, aber."""
-4804@461@2@0@1064@3@6@"Es tut mir sehr leid, Schwester, aber."""
-4805@461@2@0@185@7@10@"Es tut mir sehr leid, Schwester, aber."""
-4806@461@2@0@711@11@15@"Es tut mir sehr leid, Schwester, aber."""
-4807@461@2@0@1065@16@20@"Es tut mir sehr leid, Schwester, aber."""
-4808@461@2@0@723@22@31@"Es tut mir sehr leid, Schwester, aber."""
-4809@461@2@0@230@33@37@"Es tut mir sehr leid, Schwester, aber."""
-4810@462@2@0@1526@0@4@"Nenn mich ""Generalgouverneurin"". Du bist jetzt meine Stellvertreterin."
-4811@462@2@0@67@5@9@"Nenn mich ""Generalgouverneurin"". Du bist jetzt meine Stellvertreterin."
-4812@462@2@0@1527@11@30@"Nenn mich ""Generalgouverneurin"". Du bist jetzt meine Stellvertreterin."
-4813@462@2@0@43@33@35@"Nenn mich ""Generalgouverneurin"". Du bist jetzt meine Stellvertreterin."
-4814@462@2@0@212@36@40@"Nenn mich ""Generalgouverneurin"". Du bist jetzt meine Stellvertreterin."
-4815@462@2@0@228@41@46@"Nenn mich ""Generalgouverneurin"". Du bist jetzt meine Stellvertreterin."
-4816@462@2@0@329@47@52@"Nenn mich ""Generalgouverneurin"". Du bist jetzt meine Stellvertreterin."
-4817@462@2@0@1528@53@69@"Nenn mich ""Generalgouverneurin"". Du bist jetzt meine Stellvertreterin."
+4803@461@2@0@0@0@2@Es tut mir sehr leid, Schwester, aber."
+4804@461@2@0@1064@3@6@Es tut mir sehr leid, Schwester, aber."
+4805@461@2@0@185@7@10@Es tut mir sehr leid, Schwester, aber."
+4806@461@2@0@711@11@15@Es tut mir sehr leid, Schwester, aber."
+4807@461@2@0@1065@16@20@Es tut mir sehr leid, Schwester, aber."
+4808@461@2@0@723@22@31@Es tut mir sehr leid, Schwester, aber."
+4809@461@2@0@230@33@37@Es tut mir sehr leid, Schwester, aber."
+4810@462@2@0@1526@0@4@Nenn mich "Generalgouverneurin". Du bist jetzt meine Stellvertreterin.
+4811@462@2@0@67@5@9@Nenn mich "Generalgouverneurin". Du bist jetzt meine Stellvertreterin.
+4812@462@2@0@1527@11@30@Nenn mich "Generalgouverneurin". Du bist jetzt meine Stellvertreterin.
+4813@462@2@0@43@33@35@Nenn mich "Generalgouverneurin". Du bist jetzt meine Stellvertreterin.
+4814@462@2@0@212@36@40@Nenn mich "Generalgouverneurin". Du bist jetzt meine Stellvertreterin.
+4815@462@2@0@228@41@46@Nenn mich "Generalgouverneurin". Du bist jetzt meine Stellvertreterin.
+4816@462@2@0@329@47@52@Nenn mich "Generalgouverneurin". Du bist jetzt meine Stellvertreterin.
+4817@462@2@0@1528@53@69@Nenn mich "Generalgouverneurin". Du bist jetzt meine Stellvertreterin.
 4818@463@2@0@307@0@3@Wir sind zwar Schwestern, aber diese Formalitat ist notwendig.
 4819@463@2@0@293@4@8@Wir sind zwar Schwestern, aber diese Formalitat ist notwendig.
 4820@463@2@0@1529@9@13@Wir sind zwar Schwestern, aber diese Formalitat ist notwendig.

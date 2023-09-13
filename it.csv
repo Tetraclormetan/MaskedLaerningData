@@ -289,26 +289,26 @@ id@sentence_id@language_id@translation_language_id@word_id@word_start_index@word
 287@23@1@2@202@8@15@L'avete sentita, Eliza, Georgiana?
 288@23@1@2@203@17@22@L'avete sentita, Eliza, Georgiana?
 289@23@1@2@204@24@33@L'avete sentita, Eliza, Georgiana?
-290@24@1@2@20@0@3@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-291@24@1@2@205@4@6@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-292@24@1@2@206@7@11@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-293@24@1@2@123@12@18@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-294@24@1@2@7@19@22@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-295@24@1@2@59@23@25@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-296@24@1@2@207@26@33@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-297@24@1@2@90@34@37@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-298@24@1@2@208@38@40@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-299@24@1@2@209@41@45@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-300@24@1@2@177@47@49@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-301@24@1@2@108@50@54@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-302@24@1@2@21@55@57@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-303@24@1@2@210@58@66@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-304@24@1@2@211@69@74@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-305@25@1@2@211@0@5@"Talpa!"" e continuava a insultarmi."
-306@25@1@2@38@8@9@"Talpa!"" e continuava a insultarmi."
-307@25@1@2@212@10@20@"Talpa!"" e continuava a insultarmi."
-308@25@1@2@42@21@22@"Talpa!"" e continuava a insultarmi."
-309@25@1@2@213@23@33@"Talpa!"" e continuava a insultarmi."
+290@24@1@2@20@0@3@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+291@24@1@2@205@4@6@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+292@24@1@2@206@7@11@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+293@24@1@2@123@12@18@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+294@24@1@2@7@19@22@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+295@24@1@2@59@23@25@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+296@24@1@2@207@26@33@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+297@24@1@2@90@34@37@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+298@24@1@2@208@38@40@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+299@24@1@2@209@41@45@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+300@24@1@2@177@47@49@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+301@24@1@2@108@50@54@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+302@24@1@2@21@55@57@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+303@24@1@2@210@58@66@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+304@24@1@2@211@69@74@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+305@25@1@2@211@0@5@Talpa!" e continuava a insultarmi.
+306@25@1@2@38@8@9@Talpa!" e continuava a insultarmi.
+307@25@1@2@212@10@20@Talpa!" e continuava a insultarmi.
+308@25@1@2@42@21@22@Talpa!" e continuava a insultarmi.
+309@25@1@2@213@23@33@Talpa!" e continuava a insultarmi.
 310@26@1@2@77@0@4@Egli fu subito soccorso. Eliza e Georgiana erano corse a chiamar la mamma, che era salita al piano superiore.
 311@26@1@2@71@5@7@Egli fu subito soccorso. Eliza e Georgiana erano corse a chiamar la mamma, che era salita al piano superiore.
 312@26@1@2@98@8@14@Egli fu subito soccorso. Eliza e Georgiana erano corse a chiamar la mamma, che era salita al piano superiore.
@@ -683,18 +683,18 @@ id@sentence_id@language_id@translation_language_id@word_id@word_start_index@word
 681@60@1@2@55@67@73@E in quale oscurità, in mezzo a quale densa ignoranza combattevasi quella battaglia mentale!
 682@60@1@2@387@74@83@E in quale oscurità, in mezzo a quale densa ignoranza combattevasi quella battaglia mentale!
 683@60@1@2@388@84@91@E in quale oscurità, in mezzo a quale densa ignoranza combattevasi quella battaglia mentale!
-684@61@1@2@20@0@3@"Non sapevo rispondere alla incessante domanda del cuore: ""Perché devo soffrir tanto?""."
-685@61@1@2@389@4@10@"Non sapevo rispondere alla incessante domanda del cuore: ""Perché devo soffrir tanto?""."
-686@61@1@2@390@11@21@"Non sapevo rispondere alla incessante domanda del cuore: ""Perché devo soffrir tanto?""."
-687@61@1@2@82@22@26@"Non sapevo rispondere alla incessante domanda del cuore: ""Perché devo soffrir tanto?""."
-688@61@1@2@391@27@37@"Non sapevo rispondere alla incessante domanda del cuore: ""Perché devo soffrir tanto?""."
-689@61@1@2@392@38@45@"Non sapevo rispondere alla incessante domanda del cuore: ""Perché devo soffrir tanto?""."
-690@61@1@2@27@46@49@"Non sapevo rispondere alla incessante domanda del cuore: ""Perché devo soffrir tanto?""."
-691@61@1@2@333@50@55@"Non sapevo rispondere alla incessante domanda del cuore: ""Perché devo soffrir tanto?""."
-692@61@1@2@99@58@64@"Non sapevo rispondere alla incessante domanda del cuore: ""Perché devo soffrir tanto?""."
-693@61@1@2@393@65@69@"Non sapevo rispondere alla incessante domanda del cuore: ""Perché devo soffrir tanto?""."
-694@61@1@2@394@70@77@"Non sapevo rispondere alla incessante domanda del cuore: ""Perché devo soffrir tanto?""."
-695@61@1@2@306@78@83@"Non sapevo rispondere alla incessante domanda del cuore: ""Perché devo soffrir tanto?""."
+684@61@1@2@20@0@3@Non sapevo rispondere alla incessante domanda del cuore: "Perché devo soffrir tanto?".
+685@61@1@2@389@4@10@Non sapevo rispondere alla incessante domanda del cuore: "Perché devo soffrir tanto?".
+686@61@1@2@390@11@21@Non sapevo rispondere alla incessante domanda del cuore: "Perché devo soffrir tanto?".
+687@61@1@2@82@22@26@Non sapevo rispondere alla incessante domanda del cuore: "Perché devo soffrir tanto?".
+688@61@1@2@391@27@37@Non sapevo rispondere alla incessante domanda del cuore: "Perché devo soffrir tanto?".
+689@61@1@2@392@38@45@Non sapevo rispondere alla incessante domanda del cuore: "Perché devo soffrir tanto?".
+690@61@1@2@27@46@49@Non sapevo rispondere alla incessante domanda del cuore: "Perché devo soffrir tanto?".
+691@61@1@2@333@50@55@Non sapevo rispondere alla incessante domanda del cuore: "Perché devo soffrir tanto?".
+692@61@1@2@99@58@64@Non sapevo rispondere alla incessante domanda del cuore: "Perché devo soffrir tanto?".
+693@61@1@2@393@65@69@Non sapevo rispondere alla incessante domanda del cuore: "Perché devo soffrir tanto?".
+694@61@1@2@394@70@77@Non sapevo rispondere alla incessante domanda del cuore: "Perché devo soffrir tanto?".
+695@61@1@2@306@78@83@Non sapevo rispondere alla incessante domanda del cuore: "Perché devo soffrir tanto?".
 696@62@1@2@395@0@3@Ora, dopo trascorsi molti anni, tutte quelle ragioni mi appariscono chiaramente.
 697@62@1@2@396@5@9@Ora, dopo trascorsi molti anni, tutte quelle ragioni mi appariscono chiaramente.
 698@62@1@2@397@10@19@Ora, dopo trascorsi molti anni, tutte quelle ragioni mi appariscono chiaramente.
@@ -1177,17 +1177,17 @@ id@sentence_id@language_id@translation_language_id@word_id@word_start_index@word
 1175@102@1@2@594@5@15@Ella incominciò a cantare:
 1176@102@1@2@42@16@17@Ella incominciò a cantare:
 1177@102@1@2@595@18@25@Ella incominciò a cantare:
-1178@103@1@2@596@1@6@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-1179@103@1@2@29@7@10@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-1180@103@1@2@597@11@16@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-1181@103@1@2@306@18@23@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-1182@103@1@2@306@24@29@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-1183@103@1@2@598@30@35@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-1184@103@1@2@479@36@38@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-1185@103@1@2@43@40@46@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-1186@103@1@2@599@47@55@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-1187@103@1@2@196@56@60@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-1188@103@1@2@600@61@68@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
+1178@103@1@2@596@1@6@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+1179@103@1@2@29@7@10@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+1180@103@1@2@597@11@16@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+1181@103@1@2@306@18@23@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+1182@103@1@2@306@24@29@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+1183@103@1@2@598@30@35@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+1184@103@1@2@479@36@38@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+1185@103@1@2@43@40@46@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+1186@103@1@2@599@47@55@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+1187@103@1@2@196@56@60@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+1188@103@1@2@600@61@68@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
 1189@104@1@2@93@0@4@Ella intonò un'altra ballata, veramente malinconica, che diceva:
 1190@104@1@2@601@5@11@Ella intonò un'altra ballata, veramente malinconica, che diceva:
 1191@104@1@2@474@12@20@Ella intonò un'altra ballata, veramente malinconica, che diceva:
@@ -1196,59 +1196,59 @@ id@sentence_id@language_id@translation_language_id@word_id@word_start_index@word
 1194@104@1@2@604@40@51@Ella intonò un'altra ballata, veramente malinconica, che diceva:
 1195@104@1@2@7@53@56@Ella intonò un'altra ballata, veramente malinconica, che diceva:
 1196@104@1@2@482@57@63@Ella intonò un'altra ballata, veramente malinconica, che diceva:
-1197@105@1@2@99@1@7@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1198@105@1@2@21@8@10@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1199@105@1@2@605@11@16@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1200@105@1@2@606@17@24@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1201@105@1@2@32@25@29@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1202@105@1@2@607@30@34@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1203@105@1@2@38@35@36@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1204@105@1@2@32@37@41@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1205@105@1@2@168@42@49@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1206@105@1@2@608@51@53@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1207@105@1@2@609@54@57@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1208@105@1@2@137@58@60@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1209@105@1@2@610@61@69@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1210@105@1@2@208@70@72@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1211@105@1@2@611@73@79@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1212@105@1@2@608@81@83@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1213@105@1@2@609@84@87@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1214@105@1@2@265@88@92@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1215@105@1@2@612@93@107@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1216@105@1@2@208@108@110@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1217@105@1@2@613@111@115@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1218@105@1@2@614@116@122@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-1219@106@1@2@291@1@7@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1220@106@1@2@102@8@16@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1221@106@1@2@615@17@21@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1222@106@1@2@616@22@32@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1223@106@1@2@617@33@41@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1224@106@1@2@618@43@49@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1225@106@1@2@20@50@53@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1226@106@1@2@619@54@59@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1227@106@1@2@132@60@62@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1228@106@1@2@316@63@71@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1229@106@1@2@132@72@74@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1230@106@1@2@620@75@83@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1231@106@1@2@161@85@87@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1232@106@1@2@621@88@93@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1233@106@1@2@86@94@95@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1234@106@1@2@67@96@98@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1235@106@1@2@297@99@102@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1236@106@1@2@622@103@107@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1237@106@1@2@38@109@110@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1238@106@1@2@623@111@116@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1239@106@1@2@20@117@120@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1240@106@1@2@21@121@123@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1241@106@1@2@624@124@132@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1242@106@1@2@161@133@135@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1243@106@1@2@625@136@142@"""Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo."
-1244@107@1@2@319@0@5@"Iddio è l'amico del povero orfanello."""
-1245@107@1@2@86@6@7@"Iddio è l'amico del povero orfanello."""
-1246@107@1@2@626@8@15@"Iddio è l'amico del povero orfanello."""
-1247@107@1@2@27@16@19@"Iddio è l'amico del povero orfanello."""
-1248@107@1@2@627@20@26@"Iddio è l'amico del povero orfanello."""
-1249@107@1@2@628@27@36@"Iddio è l'amico del povero orfanello."""
+1197@105@1@2@99@1@7@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1198@105@1@2@21@8@10@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1199@105@1@2@605@11@16@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1200@105@1@2@606@17@24@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1201@105@1@2@32@25@29@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1202@105@1@2@607@30@34@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1203@105@1@2@38@35@36@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1204@105@1@2@32@37@41@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1205@105@1@2@168@42@49@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1206@105@1@2@608@51@53@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1207@105@1@2@609@54@57@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1208@105@1@2@137@58@60@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1209@105@1@2@610@61@69@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1210@105@1@2@208@70@72@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1211@105@1@2@611@73@79@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1212@105@1@2@608@81@83@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1213@105@1@2@609@84@87@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1214@105@1@2@265@88@92@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1215@105@1@2@612@93@107@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1216@105@1@2@208@108@110@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1217@105@1@2@613@111@115@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1218@105@1@2@614@116@122@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+1219@106@1@2@291@1@7@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1220@106@1@2@102@8@16@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1221@106@1@2@615@17@21@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1222@106@1@2@616@22@32@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1223@106@1@2@617@33@41@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1224@106@1@2@618@43@49@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1225@106@1@2@20@50@53@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1226@106@1@2@619@54@59@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1227@106@1@2@132@60@62@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1228@106@1@2@316@63@71@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1229@106@1@2@132@72@74@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1230@106@1@2@620@75@83@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1231@106@1@2@161@85@87@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1232@106@1@2@621@88@93@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1233@106@1@2@86@94@95@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1234@106@1@2@67@96@98@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1235@106@1@2@297@99@102@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1236@106@1@2@622@103@107@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1237@106@1@2@38@109@110@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1238@106@1@2@623@111@116@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1239@106@1@2@20@117@120@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1240@106@1@2@21@121@123@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1241@106@1@2@624@124@132@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1242@106@1@2@161@133@135@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1243@106@1@2@625@136@142@"Questo pensiero deve infondermi coraggio, benché non abbia né ricovero né genitori. Il cielo è la mia casa, e lassù non mi mancherà il riposo.
+1244@107@1@2@319@0@5@Iddio è l'amico del povero orfanello."
+1245@107@1@2@86@6@7@Iddio è l'amico del povero orfanello."
+1246@107@1@2@626@8@15@Iddio è l'amico del povero orfanello."
+1247@107@1@2@27@16@19@Iddio è l'amico del povero orfanello."
+1248@107@1@2@627@20@26@Iddio è l'amico del povero orfanello."
+1249@107@1@2@628@27@36@Iddio è l'amico del povero orfanello."
 1250@108@1@2@629@2@7@— Venga, signorina Jane, non pianga! — esclamò Bessie quando ebbe terminato.
 1251@108@1@2@253@9@18@— Venga, signorina Jane, non pianga! — esclamò Bessie quando ebbe terminato.
 1252@108@1@2@19@19@23@— Venga, signorina Jane, non pianga! — esclamò Bessie quando ebbe terminato.
@@ -2369,11 +2369,11 @@ id@sentence_id@language_id@translation_language_id@word_id@word_start_index@word
 2367@222@1@2@9@29@31@Eppure, oppressa dal dolore, vi avevo gridato:
 2368@222@1@2@412@32@37@Eppure, oppressa dal dolore, vi avevo gridato:
 2369@222@1@2@982@38@45@Eppure, oppressa dal dolore, vi avevo gridato:
-2370@223@1@2@469@1@4@"""Zia, abbiate pietà di me!"""
-2371@223@1@2@470@6@13@"""Zia, abbiate pietà di me!"""
-2372@223@1@2@471@14@19@"""Zia, abbiate pietà di me!"""
-2373@223@1@2@13@20@22@"""Zia, abbiate pietà di me!"""
-2374@223@1@2@199@23@25@"""Zia, abbiate pietà di me!"""
+2370@223@1@2@469@1@4@"Zia, abbiate pietà di me!"
+2371@223@1@2@470@6@13@"Zia, abbiate pietà di me!"
+2372@223@1@2@471@14@19@"Zia, abbiate pietà di me!"
+2373@223@1@2@13@20@22@"Zia, abbiate pietà di me!"
+2374@223@1@2@199@23@25@"Zia, abbiate pietà di me!"
 2375@224@1@2@983@0@4@Dirò la pura verità a tutti quelli che m'interrogheranno.
 2376@224@1@2@67@5@7@Dirò la pura verità a tutti quelli che m'interrogheranno.
 2377@224@1@2@984@8@12@Dirò la pura verità a tutti quelli che m'interrogheranno.
@@ -2931,26 +2931,26 @@ id@sentence_id@language_id@translation_language_id@word_id@word_start_index@word
 2929@592@1@0@191@30@39@Io vedevo realmente in lui un assassino, un tiranno.
 2930@592@1@0@61@41@43@Io vedevo realmente in lui un assassino, un tiranno.
 2931@592@1@0@1074@44@51@Io vedevo realmente in lui un assassino, un tiranno.
-2932@593@1@0@20@0@3@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2933@593@1@0@205@4@6@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2934@593@1@0@206@7@11@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2935@593@1@0@123@12@18@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2936@593@1@0@7@19@22@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2937@593@1@0@59@23@25@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2938@593@1@0@207@26@33@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2939@593@1@0@90@34@37@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2940@593@1@0@208@38@40@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2941@593@1@0@209@41@45@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2942@593@1@0@177@47@49@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2943@593@1@0@108@50@54@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2944@593@1@0@21@55@57@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2945@593@1@0@210@58@66@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2946@593@1@0@211@69@74@"Non so dire quello che io facessi con le mani, ma John mi chiamava: ""Talpa!"
-2947@594@1@0@211@0@5@"Talpa!"" e continuava a insultarmi."
-2948@594@1@0@38@8@9@"Talpa!"" e continuava a insultarmi."
-2949@594@1@0@212@10@20@"Talpa!"" e continuava a insultarmi."
-2950@594@1@0@42@21@22@"Talpa!"" e continuava a insultarmi."
-2951@594@1@0@213@23@33@"Talpa!"" e continuava a insultarmi."
+2932@593@1@0@20@0@3@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2933@593@1@0@205@4@6@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2934@593@1@0@206@7@11@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2935@593@1@0@123@12@18@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2936@593@1@0@7@19@22@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2937@593@1@0@59@23@25@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2938@593@1@0@207@26@33@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2939@593@1@0@90@34@37@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2940@593@1@0@208@38@40@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2941@593@1@0@209@41@45@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2942@593@1@0@177@47@49@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2943@593@1@0@108@50@54@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2944@593@1@0@21@55@57@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2945@593@1@0@210@58@66@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2946@593@1@0@211@69@74@Non so dire quello che io facessi con le mani, ma John mi chiamava: "Talpa!
+2947@594@1@0@211@0@5@Talpa!" e continuava a insultarmi.
+2948@594@1@0@38@8@9@Talpa!" e continuava a insultarmi.
+2949@594@1@0@212@10@20@Talpa!" e continuava a insultarmi.
+2950@594@1@0@42@21@22@Talpa!" e continuava a insultarmi.
+2951@594@1@0@213@23@33@Talpa!" e continuava a insultarmi.
 2952@595@1@0@230@2@5@— Dio mio, che orrore!
 2953@595@1@0@17@6@9@— Dio mio, che orrore!
 2954@595@1@0@7@11@14@— Dio mio, che orrore!
@@ -3998,17 +3998,17 @@ id@sentence_id@language_id@translation_language_id@word_id@word_start_index@word
 3996@677@1@0@594@5@15@Ella incominciò a cantare:
 3997@677@1@0@42@16@17@Ella incominciò a cantare:
 3998@677@1@0@595@18@25@Ella incominciò a cantare:
-3999@678@1@0@596@1@6@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-4000@678@1@0@29@7@10@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-4001@678@1@0@597@11@16@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-4002@678@1@0@306@18@23@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-4003@678@1@0@306@24@29@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-4004@678@1@0@598@30@35@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-4005@678@1@0@479@36@38@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-4006@678@1@0@43@40@46@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-4007@678@1@0@599@47@55@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-4008@678@1@0@196@56@60@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
-4009@678@1@0@600@61@68@"""C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."""
+3999@678@1@0@596@1@6@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+4000@678@1@0@29@7@10@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+4001@678@1@0@597@11@16@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+4002@678@1@0@306@18@23@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+4003@678@1@0@306@24@29@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+4004@678@1@0@598@30@35@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+4005@678@1@0@479@36@38@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+4006@678@1@0@43@40@46@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+4007@678@1@0@599@47@55@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+4008@678@1@0@196@56@60@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
+4009@678@1@0@600@61@68@"C'era una volta, tanto tanto tempo fa, quando vivevamo come zingari...."
 4010@679@1@0@93@0@4@Ella intonò un'altra ballata, veramente malinconica, che diceva:
 4011@679@1@0@601@5@11@Ella intonò un'altra ballata, veramente malinconica, che diceva:
 4012@679@1@0@474@12@20@Ella intonò un'altra ballata, veramente malinconica, che diceva:
@@ -4017,28 +4017,28 @@ id@sentence_id@language_id@translation_language_id@word_id@word_start_index@word
 4015@679@1@0@604@40@51@Ella intonò un'altra ballata, veramente malinconica, che diceva:
 4016@679@1@0@7@53@56@Ella intonò un'altra ballata, veramente malinconica, che diceva:
 4017@679@1@0@482@57@63@Ella intonò un'altra ballata, veramente malinconica, che diceva:
-4018@680@1@0@99@1@7@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4019@680@1@0@21@8@10@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4020@680@1@0@605@11@16@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4021@680@1@0@606@17@24@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4022@680@1@0@32@25@29@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4023@680@1@0@607@30@34@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4024@680@1@0@38@35@36@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4025@680@1@0@32@37@41@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4026@680@1@0@168@42@49@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4027@680@1@0@608@51@53@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4028@680@1@0@609@54@57@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4029@680@1@0@137@58@60@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4030@680@1@0@610@61@69@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4031@680@1@0@208@70@72@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4032@680@1@0@611@73@79@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4033@680@1@0@608@81@83@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4034@680@1@0@609@84@87@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4035@680@1@0@265@88@92@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4036@680@1@0@612@93@107@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4037@680@1@0@208@108@110@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4038@680@1@0@613@111@115@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
-4039@680@1@0@614@116@122@"""Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?"
+4018@680@1@0@99@1@7@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4019@680@1@0@21@8@10@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4020@680@1@0@605@11@16@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4021@680@1@0@606@17@24@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4022@680@1@0@32@25@29@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4023@680@1@0@607@30@34@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4024@680@1@0@38@35@36@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4025@680@1@0@32@37@41@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4026@680@1@0@168@42@49@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4027@680@1@0@608@51@53@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4028@680@1@0@609@54@57@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4029@680@1@0@137@58@60@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4030@680@1@0@610@61@69@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4031@680@1@0@208@70@72@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4032@680@1@0@611@73@79@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4033@680@1@0@608@81@83@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4034@680@1@0@609@84@87@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4035@680@1@0@265@88@92@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4036@680@1@0@612@93@107@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4037@680@1@0@208@108@110@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4038@680@1@0@613@111@115@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
+4039@680@1@0@614@116@122@"Perché mi hanno mandato così solo e così lontano, là ove si stendono le paludi, là ove sono ammonticchiate le cupe roccie?
 4040@681@1@0@161@0@2@Il cuore dell'uomo è duro e i buoni angioli solamente vegliano i passi del povero orfanello.
 4041@681@1@0@333@3@8@Il cuore dell'uomo è duro e i buoni angioli solamente vegliano i passi del povero orfanello.
 4042@681@1@0@1188@9@18@Il cuore dell'uomo è duro e i buoni angioli solamente vegliano i passi del povero orfanello.
@@ -5324,11 +5324,11 @@ id@sentence_id@language_id@translation_language_id@word_id@word_start_index@word
 5322@797@1@0@471@126@131@Credete forse che non senta e che possa vivere senza che nessuno mi voglia bene e sia buono per me? No, e voi non avete avuto pietà di me.
 5323@797@1@0@13@132@134@Credete forse che non senta e che possa vivere senza che nessuno mi voglia bene e sia buono per me? No, e voi non avete avuto pietà di me.
 5324@797@1@0@199@135@137@Credete forse che non senta e che possa vivere senza che nessuno mi voglia bene e sia buono per me? No, e voi non avete avuto pietà di me.
-5325@798@1@0@469@1@4@"""Zia, abbiate pietà di me!"""
-5326@798@1@0@470@6@13@"""Zia, abbiate pietà di me!"""
-5327@798@1@0@471@14@19@"""Zia, abbiate pietà di me!"""
-5328@798@1@0@13@20@22@"""Zia, abbiate pietà di me!"""
-5329@798@1@0@199@23@25@"""Zia, abbiate pietà di me!"""
+5325@798@1@0@469@1@4@"Zia, abbiate pietà di me!"
+5326@798@1@0@470@6@13@"Zia, abbiate pietà di me!"
+5327@798@1@0@471@14@19@"Zia, abbiate pietà di me!"
+5328@798@1@0@13@20@22@"Zia, abbiate pietà di me!"
+5329@798@1@0@199@23@25@"Zia, abbiate pietà di me!"
 5330@799@1@0@38@0@1@E quella punizione me l'avevate inflitta perché era stata percossa, gettata in terra dal vostro perfido figliuolo.
 5331@799@1@0@55@2@8@E quella punizione me l'avevate inflitta perché era stata percossa, gettata in terra dal vostro perfido figliuolo.
 5332@799@1@0@1285@9@18@E quella punizione me l'avevate inflitta perché era stata percossa, gettata in terra dal vostro perfido figliuolo.
